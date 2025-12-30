@@ -1,7 +1,6 @@
 import { Server } from "./presentation/server";
 
-
-(async () => {
+( async () =>{
     await main();
 })();
 
